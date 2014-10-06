@@ -42,4 +42,5 @@ height:30px;
 text-indent:-9999px;
 outline:none;
 background:url(../img/close.png) no-repeat;
+background-size: cover;
 }
