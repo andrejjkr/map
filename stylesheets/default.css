@@ -11,7 +11,7 @@ font-size:11px;
 margin:0 auto;
 width:2048px;
 height:1536px;
-background:url(../img/Zhitomir.png) no-repeat;
+background:url(../assets/Zhitomir.png) no-repeat;
 position:relative;
 }
 
@@ -41,6 +41,6 @@ width:30px;
 height:30px;
 text-indent:-9999px;
 outline:none;
-background:url(../img/close.png) no-repeat;
+background:url(../assets/close.png) no-repeat;
 background-size: cover;
 }
